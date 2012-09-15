@@ -37,19 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="198" selection-end="198" vertical-scroll-proportion="0.33849558">
+            <state line="9" column="7" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="6" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0">
+            <state line="60" column="26" selection-start="1424" selection-end="1424" vertical-scroll-proportion="-1.3032258">
               <folding />
             </state>
           </provider>
@@ -57,13 +57,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/routes.rb" />
         <option value="$PROJECT_DIR$/../app/views/welcome/index.html.erb" />
-        <option value="$PROJECT_DIR$/../Gemfile.lock" />
         <option value="$PROJECT_DIR$/../Gemfile" />
+        <option value="$PROJECT_DIR$/../Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -221,16 +226,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/../Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="6" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0">
+        <state line="9" column="7" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Gemfile">
+    <entry file="file://$PROJECT_DIR$/../Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="198" selection-end="198" vertical-scroll-proportion="0.33849558">
+        <state line="60" column="26" selection-start="1424" selection-end="1424" vertical-scroll-proportion="-1.3032258">
           <folding />
         </state>
       </provider>
